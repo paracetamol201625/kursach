@@ -1,0 +1,124 @@
+html{
+	scroll-behavior:  smooth;
+}
+.body1{
+width: 1000px;
+height: 900px;
+margin-left: 175px;
+}
+body{
+	background: url(fon2.jpg);
+ background-size: 100%;
+ background-repeat: no-repeat;
+ background-color: #0b0203;
+}
+.header{
+margin-top: 120px;
+}
+
+.logo{
+	display: block; 
+  margin-left: 238px;
+   
+}
+.logo span {
+color: red;
+display: block;
+width: 520px;
+height: 180px;
+line-height: 40px;
+font-size: 360%;
+font-weight: bold;
+
+text-shadow: 2px 2px 1px rgba(0,0,0,.5);
+}
+
+.widget{
+margin-top: 140px;
+}
+
+
+ul.menu li {
+display: inline-block;
+margin-right: 130px;
+}
+
+ul.menu a {
+color: #940505;
+text-transform: uppercase;
+letter-spacing: 1px;
+font-weight: 600;
+display: block;
+line-height: 40px;
+}
+ul.menu a:hover {
+color: red;
+}
+.menu li:last-child  {
+margin-right: 0;
+}
+.post-1{
+	float: left;
+	padding: 2px;
+	margin-top: 0px; 
+}
+.post-title{
+	padding-left: 100px;
+}
+.post-2{
+	float: left;
+	padding: 2px;
+	margin-top: 0px;
+	} 
+	.post-3{
+	float: left;
+	padding: 2px;
+	margin-top: 0px; 
+  }
+	.post-4{
+	float: left;
+	padding: 2px;
+	margin-top: 0px;
+	}
+	h2.post-title{
+		padding-left: 200px;
+	} 
+	}
+#subscribe {
+margin-top: 100px;	
+width: 18%;
+margin-left: 15%;
+}
+#subscribe input {
+width: 10%;
+display: inline-block;
+border: 2px solid black;
+border-radius: 10px 0px;
+padding: 0 0 0 5px;
+margin: 5px;
+height: 50px;
+color: black;
+font-style: italic;
+}
+ .sing_register{
+
+width: 10%;
+display: inline-block;
+padding: 0 0 0 5px;
+margin: 5px;
+height: 50px;
+color: red;
+font-style: italic;
+}
+
+a:link{
+	text-decoration: none;	
+}
+.footer{
+	padding-top: 20px;
+	margin-left: 15px;
+}
+
+
+
+

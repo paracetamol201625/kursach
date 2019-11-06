@@ -1,0 +1,73 @@
+.body1{
+width: 1000px;
+height: 900px;
+margin-left: 175px;
+}
+body{
+	background: url(fon13.jpg);
+	text-align: left;
+	
+ 	
+}
+table{
+	float: right;
+}
+p{
+	color:red;
+}
+
+ul.menu li {
+display: inline-block;
+margin-right: 130px;
+}
+
+ul.menu a {
+color: #940505;
+text-transform: uppercase;
+letter-spacing: 1px;
+font-weight: 600;
+display: block;
+line-height: 40px;
+}
+ul.menu a:hover {
+color: red;
+}
+.menu li:last-child  {
+margin-right: 0;
+}
+
+
+#menu {
+ margin: 1px;
+ padding: 1px;
+ list-style-type: none;
+  background: #7FFFD4;							
+ border: 1px solid silver;
+ width: 18%;
+ text-align: center;
+ border-radius: 10px 10px ;
+ font-size: 15px;
+ font-family: sans-serif ;
+}
+#menu a {
+
+ color: white;
+ padding: 1px 1px;
+ text-decoration: none;
+ font-weight: bold;
+ display: inline-block;
+ width: 100px;
+ float: center;
+}
+#menu a:hover {
+ background-color: #00FFFF;
+ color: #E0FFFF;
+ border-radius: 10px 15px;
+
+} 
+#1 {
+	display:inline-block;
+}
+img{
+	float:left;
+}

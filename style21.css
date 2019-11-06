@@ -1,0 +1,51 @@
+.body1{
+width: 1000px;
+height: 900px;
+margin-left: 175px;
+}
+body{
+	background: url(fon12.jpg);
+ background-size: 100%;
+ background-repeat: no-repeat;
+ background-color: #0C0C0E
+;
+}
+.widget{
+margin-top: 140px;
+}
+ul.menu li {
+display: inline-block;
+margin-right: 130px;
+}
+
+ul.menu a {
+color: #940505;
+text-transform: uppercase;
+letter-spacing: 1px;
+font-weight: 600;
+display: block;
+line-height: 40px;
+}
+ul.menu a:hover {
+color: red;
+}
+.menu li:last-child  {
+margin-right: 0;
+}
+a:link{
+	text-decoration: none;	
+}
+h2{
+color: white;
+font-size: 30pt;
+}
+
+.colortext{
+	color: #56A904;
+	font-size: 16pt;
+
+}
+p.title{
+	color:#F5F5F6;
+	font-size: 25pt;
+}

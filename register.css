@@ -1,0 +1,30 @@
+html{
+background-image: url(https://static1.squarespace.com/static/56d725b88a65e2c48c079abf/56d727fbb4ed3b3236511b37/5ac05df56d2a73e772b4788e/1523277000781/Vamers-Gaming-Assassins-Creed-Rogue-4K-Remaster-coming-to-PlayStation-4-and-Xbox-One-Banner.jpg?format=2500w);
+background-size: 100%;
+}
+#subscribe {
+width: 15%;
+margin-right: 6%;
+}
+#subscribe input {
+width: 130%;
+display: block;
+border: 2px solid black;
+border-radius: 10px 0px;
+padding: 0 0 0 10px;
+margin: 5px;
+height: 50px;
+color: black;
+font-style: italic;
+}
+.sing_register{
+
+width: 10%;
+display: inline-block;
+padding: 0 0 0 5px;
+margin: 5px;
+height: 50px;
+color: red;
+font-style: italic;
+}
+
